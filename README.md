@@ -72,10 +72,15 @@ The workflow consists of the following sequence:
 
 ## Screenshots
 
-![Workflow](screenshots/workflow.png)
-![Jira Output](screenshots/jira-output.png)
-![QA Bot Interface](screenshots/qa-bot.png)
+![Workflow](screenshots/LSC2.png)
+![Jira Output](screenshots/LSC4.png)
+![QA Bot Interface](screenshots/LSC1.png)
+![Email](screenshots/LSC3.png)
 
+QA Bot > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC1.png
+Workflow > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC2.png
+Email > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC3.png
+Jira > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC4.png
 ---
 
 ## Sample Generated Test Case
