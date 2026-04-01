@@ -1,0 +1,15 @@
+Sample Generated Test Case
+
+Title: Register with valid details
+Domain: Authentication
+Preconditions: User is on the registration page
+
+Steps:
+
+Enter valid user details
+Submit the registration form
+
+Expected Result: User registered successfully
+
+Priority: High
+Severity: Medium
