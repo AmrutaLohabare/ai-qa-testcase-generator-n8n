@@ -77,12 +77,6 @@ The workflow consists of the following sequence:
 ![QA Bot Interface](screenshots/LSC1.png)
 ![Email](screenshots/LSC3.png)
 
-QA Bot > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC1.png
-Workflow > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC2.png
-Email > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC3.png
-Jira > https://github.com/AmrutaLohabare/ai-qa-testcase-generator-n8n/blob/main/screenshots/LSC4.png
----
-
 ## Sample Generated Test Case
 
 **Title:** Register with valid details
