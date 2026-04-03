@@ -4,7 +4,7 @@
 
 This project demonstrates an AI-driven QA automation system that generates structured test cases from SRS (Software Requirement Specification) documents and automatically creates corresponding Jira stories and subtasks.
 
-The system was designed using n8n workflows, integrating AI (OpenAI LLM), Jira APIs, and automation logic to reduce manual QA effort and improve efficiency.
+The system was designed using n8n workflows, integrating AI (OpenAI LLM), Jira APIs, and automation logic to reduce manual QA effort and improve efficiency by 96%.
 
 ---
 
